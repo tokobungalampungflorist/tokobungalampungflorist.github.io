@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Selamat Datang di Toko Bunga Porsea Asry Florist, kirim karangan bunga papan ucapan dan buket bunga segar. Melayani pemesanan dan pengiriman dalam dan luar kota porsea, dikelola oleh tenaga ahli dibidangnya.
+Selamat Datang di Toko Bunga Lampung Asry Florist, kirim karangan bunga papan ucapan dan buket bunga segar. Melayani pemesanan dan pengiriman dalam dan luar kota bandar lampung, dikelola oleh tenaga ahli dibidangnya.
 
 Dengan jasa pelayanan online setiap hari di internet, menyesuaikan pesanan konsumen: bunga papan, bunga plastik, bunga segar. Siap diantar di hari yang sama.
 
